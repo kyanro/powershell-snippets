@@ -1,0 +1,1 @@
+あとで使えそうなpowershellのsnippetを放り込んでおくリポジトリ
